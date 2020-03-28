@@ -7,3 +7,9 @@ from . import models, serializer
 class ProductGenericView(generics.ListCreateAPIView):
     queryset = models.Product.objects.all()
     serializer_class = serializer.ProductSerializer
+    permission_classes = []
+
+class ProductRetriveUpdateDestroy(generics.RetrieveUpdateDestroyAPIView):
+    queryset = models.Product.objects.all()
+    serializer_class = serializer.ProductSerializer
+    permission_classes = []

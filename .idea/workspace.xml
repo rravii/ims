@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84e7f163-a4d8-4cdc-bf0c-66a3a0e26427" name="Default Changelist" comment="" />
+    <list default="true" id="ea87095e-ee3c-4ac7-8b6b-e862755d6b6c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ims.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ims/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ims/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/product/serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/product/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1ZgucMb4NGiu7vt47EkIYnb7Gd5" />
+  <component name="ProjectId" id="1ZmGxUMGg88E6br9KJkkTeWhelj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,23 +29,50 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ims" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="84e7f163-a4d8-4cdc-bf0c-66a3a0e26427" name="Default Changelist" comment="" />
-      <created>1585273138025</created>
+      <changelist id="ea87095e-ee3c-4ac7-8b6b-e862755d6b6c" name="Default Changelist" comment="" />
+      <created>1585437102534</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1585273138025</updated>
-      <workItem from="1585273146778" duration="161000" />
-      <workItem from="1585273350851" duration="5000" />
-      <workItem from="1585273459874" duration="52000" />
-      <workItem from="1585436688805" duration="422000" />
-      <workItem from="1585438278608" duration="2032000" />
+      <updated>1585437102534</updated>
+      <workItem from="1585437104959" duration="1081000" />
     </task>
     <servers />
   </component>
@@ -46,11 +80,36 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="183" y="231" key="com.intellij.ide.util.TipDialog" timestamp="1585438295057">
-      <screen x="0" y="26" width="1366" height="718" />
+    <state x="141" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585437405196">
+      <screen x="0" y="27" width="1366" height="715" />
     </state>
-    <state x="349" y="200" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1585436722062" />
-    <state x="349" y="212" key="com.intellij.ide.util.TipDialog/0.25.1366.719@0.25.1366.719" timestamp="1585273349583" />
-    <state x="183" y="231" key="com.intellij.ide.util.TipDialog/0.26.1366.718@0.26.1366.718" timestamp="1585438295057" />
+    <state x="141" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.715@0.27.1366.715" timestamp="1585437405196" />
+    <state x="357" y="27" width="641" height="715" key="#manage" timestamp="1585437420875">
+      <screen x="0" y="27" width="1366" height="715" />
+    </state>
+    <state x="357" y="27" width="641" height="715" key="#manage/0.27.1366.715@0.27.1366.715" timestamp="1585437420875" />
+    <state width="1320" height="167" key="GridCell.Tab.0.bottom" timestamp="1585437993487">
+      <screen x="0" y="27" width="1366" height="715" />
+    </state>
+    <state width="1320" height="167" key="GridCell.Tab.0.bottom/0.27.1366.715@0.27.1366.715" timestamp="1585437993487" />
+    <state width="1320" height="167" key="GridCell.Tab.0.center" timestamp="1585437993487">
+      <screen x="0" y="27" width="1366" height="715" />
+    </state>
+    <state width="1320" height="167" key="GridCell.Tab.0.center/0.27.1366.715@0.27.1366.715" timestamp="1585437993487" />
+    <state width="1320" height="167" key="GridCell.Tab.0.left" timestamp="1585437993486">
+      <screen x="0" y="27" width="1366" height="715" />
+    </state>
+    <state width="1320" height="167" key="GridCell.Tab.0.left/0.27.1366.715@0.27.1366.715" timestamp="1585437993486" />
+    <state width="1320" height="167" key="GridCell.Tab.0.right" timestamp="1585437993487">
+      <screen x="0" y="27" width="1366" height="715" />
+    </state>
+    <state width="1320" height="167" key="GridCell.Tab.0.right/0.27.1366.715@0.27.1366.715" timestamp="1585437993487" />
+    <state x="172" y="27" key="SettingsEditor" timestamp="1585437383416">
+      <screen x="0" y="27" width="1366" height="715" />
+    </state>
+    <state x="172" y="27" key="SettingsEditor/0.27.1366.715@0.27.1366.715" timestamp="1585437383416" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ims$manage.coverage" NAME="manage Coverage Results" MODIFIED="1585437423466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

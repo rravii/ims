@@ -1,6 +1,8 @@
 from rest_framework import serializers
+from .models import Product
 
 
-class ProductSerializer(serializers.Serializer):
-       name = serializers.CharField(required=True)
-       quantity = serializers.IntegerField(required=True)
+class ProductSerializer(serializers.ModelSerializer):
+       class Meta:
+              fields = '__all__'
+              model = Product
