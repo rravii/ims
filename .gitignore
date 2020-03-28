@@ -1,2 +1,5 @@
 venv
 db.sqlite3
+product/migrations
+product/__pycache__
+ims/__pycache__
