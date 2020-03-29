@@ -1,4 +1,5 @@
 venv
+env
 db.sqlite3
 product/migrations
 product/__pycache__
