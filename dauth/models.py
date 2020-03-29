@@ -3,7 +3,7 @@ from django.contrib.auth.models import User
 # Create your models here.
 
 class DUser(User):
-    hospital = models.CharField(max_length=50)
+    type = models.CharField(max_length=50)
 
     def joined(self):
         return  self.date_joined.strftime('%d %B, %Y')

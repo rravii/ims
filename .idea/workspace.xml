@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea87095e-ee3c-4ac7-8b6b-e862755d6b6c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dauth/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dauth/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ims.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ims.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ims/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ims/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ims/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ims/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="ea87095e-ee3c-4ac7-8b6b-e862755d6b6c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585437102534</updated>
       <workItem from="1585437104959" duration="2164000" />
-      <workItem from="1585472108616" duration="6241000" />
+      <workItem from="1585472108616" duration="6561000" />
     </task>
     <servers />
   </component>

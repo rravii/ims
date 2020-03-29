@@ -17,7 +17,7 @@ class UserSerializer(serializers.ModelSerializer):
             last_name=validated_data.get('last_name'),
             password=make_password(validated_data.get('password')),
             email=validated_data.get('email'),
-            hospital=validated_data.get('hospital'),
+            type=validated_data.get('hospital'),
             is_active = validated_data.get('is_active')
         )
         if (Group.objects.filter(id=validated_data.get('role'))):
@@ -39,7 +39,7 @@ class UserSerializer(serializers.ModelSerializer):
             'username',
             'password',
             'email',
-            'hospital',
+            'type',
             'is_active',
             'joined'
         ]
